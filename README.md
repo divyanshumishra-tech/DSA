@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/divyanshumishra-tech/DSA/tree/master/0127-word-ladder) |
+| [0520-detect-capital](https://github.com/divyanshumishra-tech/DSA/tree/master/0520-detect-capital) |
 ## Breadth-First Search
 |  |
 | ------- |
