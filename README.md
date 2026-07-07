@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/divyanshumishra-tech/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/divyanshumishra-tech/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/divyanshumishra-tech/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -64,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/divyanshumishra-tech/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/divyanshumishra-tech/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
