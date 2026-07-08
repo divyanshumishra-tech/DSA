@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyanshumishra-tech/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/divyanshumishra-tech/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
