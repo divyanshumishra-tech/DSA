@@ -78,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyanshumishra-tech/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/divyanshumishra-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divyanshumishra-tech/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyanshumishra-tech/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/divyanshumishra-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divyanshumishra-tech/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/divyanshumishra-tech/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Binary Search Tree
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/divyanshumishra-tech/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/divyanshumishra-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
 | ------- |
