@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyanshumishra-tech/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/divyanshumishra-tech/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/divyanshumishra-tech/DSA/tree/master/0007-reverse-integer) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/divyanshumishra-tech/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Graph Theory
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/divyanshumishra-tech/DSA/tree/master/0802-find-eventual-safe-states) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/divyanshumishra-tech/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
