@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/divyanshumishra-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/divyanshumishra-tech/DSA/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyanshumishra-tech/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0073-set-matrix-zeroes](https://github.com/divyanshumishra-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/divyanshumishra-tech/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Greedy
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/divyanshumishra-tech/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/divyanshumishra-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
