@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/divyanshumishra-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/divyanshumishra-tech/DSA/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0594-longest-harmonious-subsequence](https://github.com/divyanshumishra-tech/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyanshumishra-tech/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divyanshumishra-tech/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/divyanshumishra-tech/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/divyanshumishra-tech/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyanshumishra-tech/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/divyanshumishra-tech/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -40,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/divyanshumishra-tech/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/divyanshumishra-tech/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyanshumishra-tech/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Heap (Priority Queue)
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/divyanshumishra-tech/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/divyanshumishra-tech/DSA/tree/master/0621-task-scheduler) |
 ## String Matching
 |  |
