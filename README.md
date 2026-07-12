@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/divyanshumishra-tech/DSA/tree/master/0143-reorder-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/divyanshumishra-tech/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/divyanshumishra-tech/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divyanshumishra-tech/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/divyanshumishra-tech/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/divyanshumishra-tech/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/divyanshumishra-tech/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divyanshumishra-tech/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/divyanshumishra-tech/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/divyanshumishra-tech/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/divyanshumishra-tech/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0802-find-eventual-safe-states](https://github.com/divyanshumishra-tech/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Binary Search Tree
 |  |
