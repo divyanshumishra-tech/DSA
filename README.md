@@ -128,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/divyanshumishra-tech/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/divyanshumishra-tech/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/divyanshumishra-tech/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/divyanshumishra-tech/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Geometry
 |  |
 | ------- |
@@ -153,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/divyanshumishra-tech/DSA/tree/master/0572-subtree-of-another-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/divyanshumishra-tech/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/divyanshumishra-tech/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
