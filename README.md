@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/divyanshumishra-tech/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/divyanshumishra-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyanshumishra-tech/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/divyanshumishra-tech/DSA/tree/master/0598-range-addition-ii) |
 | [0621-task-scheduler](https://github.com/divyanshumishra-tech/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/divyanshumishra-tech/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/divyanshumishra-tech/DSA/tree/master/0007-reverse-integer) |
+| [0598-range-addition-ii](https://github.com/divyanshumishra-tech/DSA/tree/master/0598-range-addition-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/divyanshumishra-tech/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Graph Theory
 |  |
