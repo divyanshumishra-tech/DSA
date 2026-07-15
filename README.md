@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/divyanshumishra-tech/DSA/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyanshumishra-tech/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/divyanshumishra-tech/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/divyanshumishra-tech/DSA/tree/master/0127-word-ladder) |
 | [0520-detect-capital](https://github.com/divyanshumishra-tech/DSA/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/divyanshumishra-tech/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/divyanshumishra-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/divyanshumishra-tech/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/divyanshumishra-tech/DSA/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/divyanshumishra-tech/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/divyanshumishra-tech/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/divyanshumishra-tech/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
