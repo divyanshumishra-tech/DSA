@@ -1,26 +1,26 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        // time : O(n), n = number of elements to loop through
-        // space: O(n), n = number of elements store in HashSet
 
-        // i      0 1 2 3
-        // nums = 1,2,2,4
+        int duplicate = -1;
+        int missing = -1;
 
-        // output = 2,3 -> 2 is repetitive and 3 is missing
+        for (int num : nums) {
+            int index = Math.abs(num) - 1;
 
-        int[] result = new int[2];
-        HashSet<Integer> set = new HashSet<>();
-        for(int i = 0; i < nums.length; i++) {
-            if(set.contains(nums[i])) {
-                result[0] = nums[i];
+            if (nums[index] < 0) {
+                duplicate = Math.abs(num);
+            } else {
+                nums[index] *= -1;
             }
-            set.add(nums[i]);
         }
 
-        for(int i = 1; i <= nums.length; i++) {
-            if(!set.contains(i)) result[1] = i;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0) {
+                missing = i + 1;
+                break;
+            }
         }
 
-        return result;
+        return new int[]{duplicate, missing};
     }
 }
