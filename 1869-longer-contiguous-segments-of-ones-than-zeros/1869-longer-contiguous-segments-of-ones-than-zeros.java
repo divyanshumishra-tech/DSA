@@ -1,0 +1,27 @@
+class Solution {
+    public boolean checkZeroOnes(String s) {
+
+        int maxOnes = 0;
+        int maxZeros = 0;
+
+        int currentOnes = 0;
+        int currentZeros = 0;
+
+        for (char ch : s.toCharArray()) {
+
+            if (ch == '1') {
+                currentOnes++;
+                currentZeros = 0;
+
+                maxOnes = Math.max(maxOnes, currentOnes);
+            } else {
+                currentZeros++;
+                currentOnes = 0;
+
+                maxZeros = Math.max(maxZeros, currentZeros);
+            }
+        }
+
+        return maxOnes > maxZeros;
+    }
+}
